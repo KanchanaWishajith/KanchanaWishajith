@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 Working on [Your Main Project](#https://greencart-phi-silk.vercel.app/) with MERN and Unity  
+- 🔭 Working on [Your Main Project](https://greencart-phi-silk.vercel.app/) with MERN and Unity  
 - 🌱 Exploring: Backend design, Docker, AI models in production
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
 - 📧  Reach me: kanchana4592@gmail.com
