@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Kanchana+Wishajith;Happy+to+see+you+here+👨‍💻✨" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Kanchana+Wishwajith;Happy+to+see+you+here+👨‍💻✨" alt="Title">
 </div>
 
 <h1></h1>
@@ -23,18 +23,18 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 Working on [Your Main Project](#) with Django & React  
+- 🔭 Working on [Your Main Project](#) with MERN and Unity  
 - 🌱 Exploring: Backend design, Docker, AI models in production
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
-- 📧  Reach me: kanchanawishajith@gmail.com
+- 📧  Reach me: kanchana4592@gmail.com
 <br><br>
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/kanchanawishajith/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="mailto:kanchanawishajith@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
-  <a href="https://fb.com/kanchanawishajith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/kanchanawishajith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/kanchana-wishwajith-bb953b248/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="mailto:kanchana4592@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
+  <a href="https://fb.com/kanchanawishwajith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/kanchanawishwajith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Top Skills & Tools
